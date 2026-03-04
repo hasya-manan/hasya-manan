@@ -24,4 +24,4 @@ I have over 2 years of experience building and maintaining production web applic
 ---
 
 ### 📩 Contact Me
-[www.linkedin.com/in/hasya-abdul-manan-788a07208] | [hasyamanan@gmail.com]
+[www.linkedin.com/in/hasya-abdul-manan-788a07208] 
