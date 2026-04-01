@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Hasya!
 
-**Junior Full-Stack Developer | Vue.js / Nuxt & Laravel | Passionate about building impactful user experiences.**
+** Full-Stack Developer | Vue.js / Nuxt & Laravel | Passionate about building impactful user experiences.**
 
 ---
 
