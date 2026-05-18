@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 Professional Experience
-I have over 2 years of experience building and maintaining production web applications in collaborative environments.
+I have 3 years of experience building and maintaining production web applications in collaborative environments.
 
 * **Developed full-stack modules using Nuxt 3 and Vue within an existing multi-tenant application.** 
 * **Built CRUD features and backend logic using Laravel and PHP.** 
