@@ -69,7 +69,7 @@ I have **3 years of experience** building and maintaining production web applica
 - ⚙️ **Built CRUD features** and backend logic using Laravel and PHP.
 - 🔗 **Implemented REST APIs** and managed SQL database interactions.
 - 🛠️ **Performed manual production deployments** using Git and PuTTY.
-- 📚 **Continuously learning** by developing mini-projects to explore new technologies.
+- 📚 **Continuously learning** by developing to explore new technologies.
 
 ---
 
