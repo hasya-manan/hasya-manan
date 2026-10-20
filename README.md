@@ -17,6 +17,17 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/hasya-manan/saas-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasya-manan&repo=saas-app&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
+ 
+</p>
+
+---
+
 ### 💻 Technical Skills
 
 <p align="left">
@@ -32,7 +43,7 @@
 
 ---
 
-### 🚀 Professional Experience
+### 🧑‍💻 Professional Experience
 
 I have 3 years of experience building and maintaining production web applications in collaborative environments.
 
@@ -47,9 +58,9 @@ I have 3 years of experience building and maintaining production web application
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasya-manan&show_icons=true&theme=radical&hide_border=true" alt="Hasya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasya-manan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Hasya's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasya-manan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasya-manan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 ---
