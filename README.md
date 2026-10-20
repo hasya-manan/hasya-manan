@@ -3,7 +3,7 @@
    <img alt="Logo for Hasya Manan" src="art/header-light.png">
 </picture>
 
-<h1 align="center">Hi, I'm Hasya! 👋</h1>
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack_Developer-FF69B4?style=for-the-badge&logoColor=white" alt="Full Stack" />
