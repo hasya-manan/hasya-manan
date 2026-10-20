@@ -14,27 +14,24 @@
 
 ---
 
-### 🚀 Current Focus
+### 🚀 Featured Project: SaaS App
 
-<table align="center" width="100%" style="border-collapse: collapse; border: 1px solid #333; background-color: #0d1117; border-radius: 8px;">
+<table align="center" width="100%" style="border-collapse: collapse; border: 1px solid #FF69B4; background-color: #0d1117; border-radius: 8px;">
   <tr>
-    <td width="50%" valign="top" style="padding: 20px;">
-      <h3>📁 <a href="https://github.com/hasya-manan/saas-app">saas-app</a></h3>
-      <p><b>Multi-tenant HR System</b></p>
-      <p>A shared-database multi-tenancy HR platform built with Laravel 11, Inertia.js & Vue 3. Features RBAC, tenant recovery, and dynamic Vue components.</p>
+    <td width="100%" valign="top" style="padding: 20px;">
+      <h3>📁 <a href="https://github.com/hasya-manan/saas-app">Multi-Tenant HR System</a></h3>
+      <p>A shared-database multi-tenancy HR platform designed for HR management workflows. Built with Laravel 11, Inertia.js & Vue 3.</p>
+      <p><b>Key Features:</b></p>
+      <ul>
+        <li>🏗️ <b>Multi-tenant Architecture:</b> Shared-database isolation using tenant_id and global scopes.</li>
+        <li>🔐 <b>Role-Based Access Control (RBAC):</b> Custom middleware for SuperAdmin, CompanyAdmin, and Staff.</li>
+        <li>⚙️ <b>SuperAdmin Management:</b> Tenant registration, filtering, soft-delete recovery, and dynamic Vue 3 components.</li>
+      </ul>
       <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top" style="padding: 20px; border-left: 1px solid #333;">
-      <h3>🧪 <a href="https://github.com/hasya-manan/mini-project">mini-project</a></h3>
-      <p><b>Learning Lab</b></p>
-      <p>A collection of mini-projects exploring new technologies, best practices, and testing out new frontend/backend concepts.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Experiments-FF69B4?style=flat-square" />
-        <img src="https://img.shields.io/badge/Continuous_Learning-FF69B4?style=flat-square" />
       </p>
     </td>
   </tr>
