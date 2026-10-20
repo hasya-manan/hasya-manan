@@ -1,3 +1,8 @@
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Hasya Manan" src="art/header-light.png">
+</picture>
+
 <h1 align="center">Hi, I'm Hasya! 👋</h1>
 
 <p align="center">
