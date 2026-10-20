@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Turning+coffee+into+clean%2C+tested+code;Building+impactful+user+experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Turning+matcha+into+clean%2C+tested+code;3%2B+Years+of+Full-Stack+Experience;Vue.js+%7C+Nuxt+%7C+Laravel;I+love+matcha+%F0%9F%8D%B5" alt="Typing SVG" />
   </a>
 </p>
 
