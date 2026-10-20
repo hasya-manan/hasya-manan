@@ -1,3 +1,8 @@
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Hasya Manan" src="art/header-light.png">
+</picture>
+
 ### 👋 Hi, I'm Hasya!
 
 ** Full-Stack Developer | Vue.js / Nuxt & Laravel | Passionate about building impactful user experiences.**
