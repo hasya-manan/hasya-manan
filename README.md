@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Vue.js_/_Nuxt-FF69B4?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" />
   <img src="https://img.shields.io/badge/Laravel-FF69B4?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 </p>
+<h1 align="center">Hi there 👋, I'm Hasya Binti Abdul Manan</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
