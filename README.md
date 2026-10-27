@@ -6,9 +6,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack_Developer-FF69B4?style=for-the-badge&logoColor=white" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/Vue.js_/_Nuxt-FF69B4?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/Laravel-FF69B4?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hasya+Binti+Abdul+Manan;Turning+matcha+into+clean%2C+tested+code;3%2B+Years+of+Full-Stack+Experience;Vue.js+%7C+Nuxt+%7C+Laravel;I+love+matcha+%F0%9F%8D%B5" alt="Typing SVG" />
+  </a>
 </p>
 <h1 align="center">Hi there 👋, I'm Hasya Binti Abdul Manan</h1>
 
